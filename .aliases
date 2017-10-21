@@ -1,0 +1,13 @@
+alias gs='git status'
+alias gs='git status'
+alias gd='git diff'
+alias gd='git diff'
+alias ga='git add'
+
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+
+alias -- -="cd -"
+
